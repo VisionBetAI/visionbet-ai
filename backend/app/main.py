@@ -1,4 +1,3 @@
-print("CARREGOU MAIN")
 
 from fastapi import FastAPI
 
